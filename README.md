@@ -1,5 +1,9 @@
+# RETO ACTIVIDAD 3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
+### Recurso de aprendizaje Cultura digital
 
-# Hibridación de medios
+**Autor**: Mariano Mayayo Burillo |  **Fecha**: 18/12/2022
+
+----------
 
 ## Introducción: ¿Qué es la Hibridación?
 
@@ -36,13 +40,15 @@ Y para conseguir este objetivo existen los dispositivos rastreadores de movimien
 
 ### Composición por capas
 
-La imagen final se genera mediante la composición por capas situando en el frente la imagen de vídeo captada en tiempo real por la cámara de plató a la que se le aplica un **Chroma Key**, y en el fondo la escena 3D creada en el entorno virtual. Gracias a la sincronización de ambas cámaras en posición y distancia focal, es posible conseguir una escena en la que el actor se encuentra perfectamente integrado en el nuevo entorno. Casi podríamos decir que es en este momento donde se está produciendo realmente la hibridación de los medios, es decir, se fusiona la imagen del mundo real con la imagen del mundo virtual y se crea una nueva escena hasta entonces inexistente.
+La imagen final se genera mediante la composición por capas situando en el frente la imagen de vídeo captada en tiempo real por la cámara de plató a la que se le aplica un **Chroma Key**, y en el fondo la escena 3D creada en el entorno virtual. Gracias a la sincronización de ambas cámaras en posición y distancia focal, es posible conseguir una escena en la que el actor se encuentra perfectamente integrado en el nuevo entorno. Casi podríamos decir que es en este momento donde se está produciendo realmente la hibridación de los medios, es decir, se fusiona la imagen del mundo real con la imagen del mundo virtual y se crea una nueva escena hasta entonces inexistente. (Unreal Engine)
 
-###  Resultado y conclusión
+###  Resultado y conclusión sobre Unreal Engine
 
 En **Unreal Engine** nos encontramos con un software de medios que nos permite crear nuevos medios híbridos, en el caso de la producción virtual, una nueva escena que combina dos técnicas, una imagen de vídeo y otra generada por ordenador. Aunque finalmente el medio que vemos gracias a este tipo de producción es un vídeo digital, un tipo de medio ya existente previamente, éste ha sido creado mediante la fusión de diversas capas de vídeo y elementos 3d, es decir, hibridando distintos tipos de medios, lo que le da un significado totalmente nuevo al crear una representación de una escena en un nuevo mundo.
 
 Pero no sólo el vídeo final es un medio híbrido, la propia herramienta de desarrollo también lo es. **Unreal Engine** combina técnicas propias de medios concretos como puede ser el tratamiento de señales de vídeo, específico del video digital, o la manipulación de objetos tridimensionales, específico de este tipo de objetos, con otras comunes a todos ellos como puede ser la visualización de los mismos a través de la cámara virtual, o la programación mediante código sobre objetos de distintos medios.
+
+Además de combinar medios y técnicas, es posible generar una nueva interfaz personalizada para el uso y la manipulación del nuevo entorno virtual creado. Por ejemplo es posible incluir elementos de interfaz que nos permiten controlar la distancia focal de la cámara en el plató y a la vez la de la cámara virtual o controlar de manera sincronizada la intensidad de la iluminación real y la virtual. Esta nueva interfaz se puede crear partiendo de elementos preexistentes como botones, campos de entrada de datos, o deslizadores, entre otros elementos, o puede ser diseñada totalmente nueva, pero en cualquiera de los dos casos, sus funciones serán totalmente nuevas y específicas para modificar los datos de este nuevo medio creado.
 
 ## Caso 2. Hibridación en WondaVR
 
@@ -55,6 +61,17 @@ La comunicación entre los usuarios se realiza a través de una llamada similar 
 
 Estas características son un claro ejemplo de hibridación de medios. La plataforma en sí es un entorno de desarrollo que podemos englobar dentro de la categoría del software de los medios, y que permite a un creador (administrador) el diseño de las distintas salas de reunión combinando adecuadamente, en un espacio tridimensional, medios de diferentes tipos como imágenes, textos, vídeos o elementos interactivos. El resultado final será un nuevo medio híbrido, una sala de reuniones virtual en la que los medios originales implicados en su creación, ahora forman parte de un todo.
 
+### Datos vs Interfaz
+
+Cualquier tipo de comunicación tiene varios actores fundamentales, como son emisor, receptor, canal y mensaje. En este caso, el mensaje, se transmite como datos codificados al receptor a través de la red. Estos datos constituyen la esencia de la plataforma WondaVR, y la forma de generarlos y mostrarlos es a través de la interfaz de usuario. En función del tipo de mensaje, que queramos transmitir, se utilizará una parte u otra de la interfaz del usuario. De la misma manera en el momento de la recepción de los datos, éstos se mostrarán haciendo uso de distintas partes de la interfaz. Pero debemos tener en cuenta que datos e interfaz pueden estar relacionados entre sí, pero son elementos totalmente independientes. Es decir. Podríamos estar transmitiendo exactamente el mismo mensaje, los mismos datos, pero mostrarlos de una manera totalmente distinta. Esta misma idea la podemos apreciar en aplicaciones similares como Skype, Google Meet y otras dedicadas a la comunicación grupal.
+
+En WondaVR tenemos el mismo tipo de datos que en cualquier otra aplicación de comunicación entre diferentes usuarios, es decir, audio, vídeo, imágenes o textos, pero se muestran de una manera específica dentro de un entorno 3D. Este escenario puede ser creado por el usuario, o generado automáticamente por la plataforma, y los datos que se transmiten, es decir, los mensajes,  ahora se muestran como elementos de la propia interfaz. Podemos compartir una imagen, un vídeo o un archivo de audio, simplemente colocando el objeto en el espacio 3D de manera que puede ser visualizado por el receptor dentro del mismo espacio. Si además es dispositivo utilizado para el acceso a la plataforma es un dispositivo de realidad virtual como pueden ser unas gafas VR, la experiencia del usuario es totalmente inmersiva y los propios movimientos del usuario son ahora controles de interfaz. (WondaVR)
+
+###  Resultado y conclusión sobre WondaVR
+
+WondaVR es una plataforma de comunicación entre múltiples usuarios desarrollada para mostrar los distintos mensajes sobre una nueva interfaz en un espacio tridimensional. La hibridación en este caso se produce en dos aspectos fundamentalmente; se crea una nueva interfaz de usuario para crear, modificar y acceder a los distintos datos que componen los mensajes transmitidos, y además se crea un nuevo entorno que combina distintas técnicas de diversos medios, es decir, una nueva experiencia, a la que acceden los usuarios, de manera que en una única sala creada por software se pueden encontrar personas que físicamente se encuentran en distintas partes del mundo compartiendo la información diferentes medios en un único espacio, un nuevo medio híbrido. 
+
+
 ## Referencias
 
 ADELL, F (2014). Remediación, multimedia e hibridación de los medios. Mosaic [en línea], 2014. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
@@ -66,8 +83,6 @@ MANOVICH, L. (2013). El software toma el mando. Barcelona: Editorial UOC. (Capí
 UNREAL ENGINE. Consultado en diciembre de 2022. [En línea]. Disponible en: https://www.unrealengine.com/es-ES
 
 WONDAVR. Consultado en diciembre de 2022. [En Línea]. Disponible en: https://www.wondavr.com
-
-
 
 
 
