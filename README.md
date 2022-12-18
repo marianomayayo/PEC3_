@@ -69,7 +69,7 @@ En WondaVR tenemos el mismo tipo de datos que en cualquier otra aplicación de c
 
 ###  Resultado y conclusión sobre WondaVR
 
-WondaVR es una plataforma de comunicación entre múltiples usuarios desarrollada para mostrar los distintos mensajes sobre una nueva interfaz en un espacio tridimensional. La hibridación en este caso se produce en dos aspectos fundamentalmente; se crea una nueva interfaz de usuario para crear, modificar y acceder a los distintos datos que componen los mensajes transmitidos, y además se crea un nuevo entorno que combina distintas técnicas de diversos medios, es decir, una nueva experiencia, a la que acceden los usuarios, de manera que en una única sala creada por software se pueden encontrar personas que físicamente se encuentran en distintas partes del mundo compartiendo la información diferentes medios en un único espacio, un nuevo medio híbrido. 
+WondaVR es una plataforma de comunicación entre múltiples usuarios desarrollada para mostrar los distintos mensajes sobre una nueva interfaz en un espacio tridimensional. La hibridación en este caso se produce en dos aspectos fundamentalmente; se crea una nueva interfaz de usuario para crear, modificar y acceder a los distintos datos que componen los mensajes transmitidos, y además se crea un nuevo entorno que combina distintas técnicas de diversos medios, es decir, una nueva experiencia, a la que acceden los usuarios, de manera que en una única sala creada por software se pueden encontrar personas que físicamente se encuentran en distintas partes del mundo compartiendo la información de diferentes medios en un único espacio, un nuevo medio híbrido. 
 
 
 ## Referencias
