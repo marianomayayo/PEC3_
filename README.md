@@ -1,5 +1,5 @@
 # RETO ACTIVIDAD 3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
-### Recurso de aprendizaje Cultura digital
+### Asignatura de Cultura digital - UOC
 
 **Autor**: Mariano Mayayo Burillo |  **Fecha**: 18/12/2022
 
