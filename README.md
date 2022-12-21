@@ -23,7 +23,10 @@ Los distintos avances tecnológicos como el desarrollo de nuevas tarjetas gráfi
 
 **Unreal Engine**, probablemente el motor de desarrollo de juegos más potente del mercado, es el principal ejemplo de entorno de producción virtual. No solo se usa para crear videojuegos, sino también para crear escenas virtuales complejas con gran nivel de realismo en las que se puede integrar un actor, o un personaje del mundo real dentro de un escenario virtual. Dicho de otra manera, estamos hablando de Realidad Virtual (RV), lo que por definición nos lleva a un claro ejemplo de hibridación de medios ya que nos muestra una representación de una nueva escena que combina elementos reales con imágenes generadas por ordenador y que sería casi imposible crear de otra manera.
 
-![Captura de pantalla de Unreal Engine](https://drive.google.com/uc?id=15AZTTtChlChFbaqyNKx-EwvU3tXk0r3i)
+![Captura de pantalla de Unreal Engine](https://drive.google.com/uc?id=15AZTTtChlChFbaqyNKx-EwvU3tXk0r3i)  
+
+![Captura de pantalla de Unreal Engine](https://drive.google.com/uc?id=1HEKsx-vvHrvEgV_9rt64xs15P34VXpU-)  
+
 >Captura de pantalla de proyecto de VR de Unreal Engine. Fuente: mmayayo3d
 
 Para poder crear composiciones de este tipo se suelen utilizar dos técnicas. La primera es la técnica del **Chroma Key**, que consiste en captar mediante una cámara la imagen de un actor o una escena real sobre un fondo de color (normalmente verde) para poder sustituir este fondo por una imagen de un escenario generado por ordenador. La otra técnica que se suele usar en grandes producciones audiovisuales consiste en situar **pantallas LED** en el fondo de la escena para  poder proyectar el escenario creado en la computadora sobre estas pantallas, de manera que la cámara finalmente capta la imagen del actor sobre este nuevo escenario. Técnicamente son formas diferentes de producción virtual, pero, en esencia funcionan de la misma manera, mediante la combinación de una cámara de vídeo y una cámara virtual que genera la escena 3D.
