@@ -25,8 +25,6 @@ Los distintos avances tecnológicos como el desarrollo de nuevas tarjetas gráfi
 
 ![Captura de pantalla de Unreal Engine](https://drive.google.com/uc?id=15AZTTtChlChFbaqyNKx-EwvU3tXk0r3i)  
 
-![Captura de pantalla de Unreal Engine](https://drive.google.com/uc?id=1HEKsx-vvHrvEgV_9rt64xs15P34VXpU-)  
-
 >Captura de pantalla de proyecto de VR de Unreal Engine. Fuente: mmayayo3d
 
 Para poder crear composiciones de este tipo se suelen utilizar dos técnicas. La primera es la técnica del **Chroma Key**, que consiste en captar mediante una cámara la imagen de un actor o una escena real sobre un fondo de color (normalmente verde) para poder sustituir este fondo por una imagen de un escenario generado por ordenador. La otra técnica que se suele usar en grandes producciones audiovisuales consiste en situar **pantallas LED** en el fondo de la escena para  poder proyectar el escenario creado en la computadora sobre estas pantallas, de manera que la cámara finalmente capta la imagen del actor sobre este nuevo escenario. Técnicamente son formas diferentes de producción virtual, pero, en esencia funcionan de la misma manera, mediante la combinación de una cámara de vídeo y una cámara virtual que genera la escena 3D.
